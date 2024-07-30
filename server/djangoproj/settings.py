@@ -30,7 +30,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     "localhost",
-    "https://davidsoliss1-8000." \ 
+    "https://davidsoliss1-8000." \
     "theianext-0-labs-prod-misc-tools-us-east-0.proxy.cognitiveclass.ai",
     "https://davidsoliss1-8000." \
     "theiadockernext-1-labs-prod-theiak8s-4-tor01.proxy.cognitiveclass.ai",
